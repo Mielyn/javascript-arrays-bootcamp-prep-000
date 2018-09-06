@@ -1,3 +1,2 @@
-var cities = ["New York", "San Francisco"]
- 
-["Philadelphia", ...cities]
+var addElementToBeginningOfArray = []; 
+var 
