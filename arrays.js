@@ -5,7 +5,7 @@ var grilledCheeseIngredients = [
   'butter',
   'tomato',
   'garlic'
-]
+];
  
 var tomatoSauceIngredients = [
   'tomato',
@@ -13,4 +13,4 @@ var tomatoSauceIngredients = [
   'olive oil',
   'basil',
   'oregano'
-]
+];
