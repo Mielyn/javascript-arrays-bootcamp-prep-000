@@ -1,16 +1,3 @@
-var grilledCheeseIngredients = [
-  'bread',
-  'mild cheese',
-  'sharp cheese',
-  'butter',
-  'tomato',
-  'garlic'
-];
+var cities = ["New York", "San Francisco"]
  
-var tomatoSauceIngredients = [
-  'tomato',
-  'garlic',
-  'olive oil',
-  'basil',
-  'oregano'
-];
+["Philadelphia", ...cities]
